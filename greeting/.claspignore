@@ -1,0 +1,4 @@
+secrets.json
+**/**
+!*.js
+!appsscript.json
